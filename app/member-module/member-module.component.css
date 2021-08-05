@@ -1,0 +1,92 @@
+
+
+.bg-green{
+    color:white;
+    background-color: #183a1d;
+    
+    
+}
+
+.nav-link:hover{
+    text-decoration: #183a1d;
+}
+.nav1{
+   
+    color: white;
+    text-decoration: none;
+    
+    padding-left: 10px;
+}
+
+.nav2{
+   
+    color: white;
+    text-decoration: none;
+   
+    padding-left: 20px;
+    
+    
+}
+
+.nav3{
+    width: 100%;
+    float: right;
+    
+}
+
+table{
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 35%;
+  
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+
+  }
+  .fottext{
+      padding-left: 20px;
+  }
+#f{
+    color: white;
+  }
+button{
+    background-color: #183a1d;
+    color: white;
+    margin-left: 34%;
+    min-width: 20%;
+    text-align: center;
+}
+.card{
+
+    width: 100%;
+}
+.btn2{
+    margin-left: 70%;
+    
+    padding: 5px 10px 5px 10px;
+}
+.btn3{
+    margin-left: 15%;
+    padding: 5px 17px 5px 10px;
+}
+button:hover {
+    color:white;
+}
+
+.clr{
+    color: #183a1d;
+    font-size: large;
+    overflow: visible;
+}
+
+.clr1{
+    background-color: #183a1d;
+}
+
+.btn-s{
+    padding-top: 10px;
+}
+     
